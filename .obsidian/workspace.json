@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0c7aae3a7ce6e242",
+        "id": "bcdc7a6d0785401e",
         "type": "tabs",
         "children": [
           {
-            "id": "dd0c855c02f3c3dd",
+            "id": "2ba7eeafcd4fd44e",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Unreal/Blueprints"
+                "file": "Unreal/Blueprints/Abrir pruerta.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Blueprints"
+              "title": "Abrir pruerta"
             }
           }
         ]
@@ -180,9 +182,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd0c855c02f3c3dd",
+  "active": "2ba7eeafcd4fd44e",
   "lastOpenFiles": [
+    "Unreal/Blueprints/img/Pasted image 20241119175755.png",
+    "Unreal/Blueprints/Función pura.md",
     "Unreal/Blueprints/Abrir pruerta.md",
+    "Unreal/Blueprints/img/Pasted image 20241119180533.png",
+    "Unreal/Blueprints/img/Pasted image 20241119174704.png",
+    "Pasted image 20241119174800.png",
+    "Unreal/Blueprints/img/Pasted image 20241119174811.png",
+    "Vault.md",
+    "Unreal/Blueprints/img/Pasted image 20241119173725.png",
+    "Unreal/Blueprints/img/img.md",
+    "Unreal/Blueprints/img",
     "Unreal/Blueprints",
     "Unreal",
     "Bienvenido.md",
