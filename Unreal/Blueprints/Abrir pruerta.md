@@ -3,7 +3,7 @@ Tipo:
   - Apuntes
   - Ejemplos
 ---
- ## Subir puerta
+## Subir puerta
 ![[Pasted image 20241119174704.png]]
 
 ![[Pasted image 20241119173725.png]]
@@ -23,7 +23,7 @@ En el caso si es false tendremos lo siguiente.
 ![[Pasted image 20241119180533.png]]
 Primero nuestro "Branch" cuando da false estara conectado al set de la variable float "porcentaje" y el set se establecera con un nodo "add" el cual suma la variable porcentaje actual con la variable valor sumar.
 
-Luego seguirá con el nodo "Set Relative location" el cual tiene un nodo "Lerp" ([[Unreal/Blueprints/Función pura.md|Función pura]]) que en A tendrá la altura base de nuestro objeto y en B hasta la altura que tiene que llegar, como Alpha usaremos el valor del porcentaje todo esto retornara un valor el cual representa la altura de ese porcentaje,.
+Luego seguirá con el nodo "Set Relative location" el cual tiene un nodo "Lerp" ([[Función pura|Función pura]]) que en A tendrá la altura base de nuestro objeto y en B hasta la altura que tiene que llegar, como Alpha usaremos el valor del porcentaje todo esto retornara un valor el cual representa la altura de ese porcentaje,.
 
 ## Bajar puerta
 
