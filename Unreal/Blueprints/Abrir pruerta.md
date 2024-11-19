@@ -3,7 +3,7 @@ Tipo:
   - Apuntes
   - Ejemplos
 ---
-## Subir puerta
+ ## Subir puerta
 ![[Pasted image 20241119174704.png]]
 
 ![[Pasted image 20241119173725.png]]
