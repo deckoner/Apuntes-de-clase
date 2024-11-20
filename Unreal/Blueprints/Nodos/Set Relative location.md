@@ -3,7 +3,6 @@ Tipo:
   - Nodo de flujo
 ---
 # Set Relative Location
-
 ## Descripción
 Ajusta la posición relativa de un componente en su jerarquía de actores.
 
