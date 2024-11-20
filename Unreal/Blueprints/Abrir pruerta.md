@@ -26,9 +26,9 @@ Si es True es que ya ha llegado al 100% (1 en la variable float) cancelara el bu
 
 En el caso si es false tendremos lo siguiente.
 ![[Pasted image 20241119180533.png]]
-Primero nuestro [[Unreal/Blueprints/Nodos/Branch.md|Branch]] cuando da false estará conectado al set de la variable float "porcentaje" y el set se establecerá con un nodo "add" el cual suma la variable porcentaje actual con la variable valor sumar.
+Primero nuestro [[Unreal/Blueprints/Nodos/Branch.md|Branch]] cuando da false estará conectado al set de la variable float "porcentaje" y el set se establecerá con un nodo [[Add|Add]] el cual suma la variable porcentaje actual con la variable valor sumar.
 
-Luego seguirá con el nodo "Set Relative location" el cual tiene un nodo "Lerp" ([[Función pura|Función pura]]) que en A tendrá la altura base de nuestro objeto y en B hasta la altura que tiene que llegar, como Alpha usaremos el valor del porcentaje todo esto retornara un valor el cual representa la altura de ese porcentaje,.
+Luego seguirá con el nodo [[Unreal/Blueprints/Nodos/Set Relative location.md|Set Relative location]] el cual tiene un nodo [[Unreal/Blueprints/Nodos/Lerp.md|Lerp]] que en A tendrá la altura base de nuestro objeto y en B hasta la altura que tiene que llegar, como Alpha usaremos el valor del porcentaje todo esto retornara un valor el cual representa la altura de ese porcentaje,.
 
 ## Bajar puerta
 
