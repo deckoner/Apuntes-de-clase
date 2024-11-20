@@ -1,0 +1,4 @@
+---
+Tipo:
+  - Nodo de flujo
+---

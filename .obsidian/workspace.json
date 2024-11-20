@@ -11,14 +11,12 @@
             "id": "2ba7eeafcd4fd44e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Unreal/Conceptos basicos/Comentar en Blueprints.md",
-                "mode": "source",
-                "source": false
+                "path": "Unreal/Blueprints/Nodos"
               },
               "icon": "lucide-file",
-              "title": "Comentar en Blueprints"
+              "title": "Nodos"
             }
           }
         ]
@@ -184,14 +182,26 @@
   },
   "active": "2ba7eeafcd4fd44e",
   "lastOpenFiles": [
+    "Unreal/Blueprints/Nodos/Nodos.md",
+    "Unreal/Blueprints/Nodos/On Component Begin Overlap.md",
+    "Unreal/Blueprints/Abrir pruerta.md",
+    "Unreal/Blueprints/Nodos/Lerp.md",
+    "Unreal/Blueprints/Nodos/Greater Equal.md",
+    "Unreal/Blueprints/Nodos/Set Time by Event.md",
+    "Unreal/Blueprints/Nodos/Clear and Invalidate Timer by Handle.md",
+    "Unreal/Blueprints/Nodos/Branch.md",
+    "Unreal/Blueprints/On Component Begin Overlap.md",
+    "Unreal/Blueprints/Nodos",
+    "Pasted image 20241120174808.png",
+    "Pasted image 20241120174755.png",
+    "Unreal/Blueprints/img/Pasted image 20241120174601.png",
+    "Unreal/Conceptos basicos/Función pura.md",
     "Unreal/Conceptos basicos/Estructuras.md",
     "Unreal/Conceptos basicos/Comentar en Blueprints.md",
     "Unreal/Conceptos basicos/Conceptos basicos.md",
     "Unreal/Blueprints/Blueprints.md",
     "Unreal/Conceptos basicos",
     "Unreal/Sin título.md",
-    "Unreal/Blueprints/Abrir pruerta.md",
-    "Unreal/Conceptos basicos/Función pura.md",
     "Unreal/Blueprints/img/Pasted image 20241119175755.png",
     "Unreal/Blueprints/img/Pasted image 20241119180533.png",
     "Unreal/Blueprints/img/Pasted image 20241119174704.png",
