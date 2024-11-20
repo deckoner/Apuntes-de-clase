@@ -48,8 +48,7 @@
     "/",
     "//Unreal",
     "//Unreal/Unreal/Blueprints",
-    "//Unreal/Unreal/Conceptos basicos",
-    "//Unreal/Unreal/Blueprints/Unreal/Blueprints/Nodos"
+    "//Unreal/Unreal/Conceptos basicos"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
