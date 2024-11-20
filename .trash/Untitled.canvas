@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"ae367eead700f79d","type":"text","text":"Crea Equipo","x":-500,"y":-5,"width":163,"height":50,"color":"1"},
+		{"id":"ff9677b7edb8bbf8","type":"text","text":"Elige nueva victima","x":-520,"y":-120,"width":203,"height":59,"color":"1"},
+		{"id":"22cce2f1ff247237","type":"text","text":"Rastrea","x":-37,"y":-15,"width":120,"height":60,"color":"1"},
+		{"id":"08e5825b60bbee2a","type":"text","text":"Preparar el equipo","x":-80,"y":-120,"width":207,"height":50,"color":"1"},
+		{"id":"7bca7f85c85d91bf","type":"text","text":"Preparación","x":-276,"y":-240,"width":154,"height":57,"color":"1"},
+		{"id":"2e60f4e0e81b3a27","type":"text","text":"Cazar","x":-258,"y":100,"width":118,"height":50,"color":"1"}
+	],
+	"edges":[
+		{"id":"dc05fc1f8910931d","fromNode":"22cce2f1ff247237","fromSide":"bottom","toNode":"2e60f4e0e81b3a27","toSide":"right"},
+		{"id":"f9924979b180daad","fromNode":"2e60f4e0e81b3a27","fromSide":"left","toNode":"ae367eead700f79d","toSide":"bottom"},
+		{"id":"9041aa9c1c30b085","fromNode":"ae367eead700f79d","fromSide":"top","toNode":"ff9677b7edb8bbf8","toSide":"bottom"},
+		{"id":"07a122c5c739fed1","fromNode":"ff9677b7edb8bbf8","fromSide":"top","toNode":"7bca7f85c85d91bf","toSide":"left"},
+		{"id":"cdb64b20717d08c9","fromNode":"7bca7f85c85d91bf","fromSide":"right","toNode":"08e5825b60bbee2a","toSide":"top"},
+		{"id":"d4a91dfe03ff75ad","fromNode":"08e5825b60bbee2a","fromSide":"bottom","toNode":"22cce2f1ff247237","toSide":"top"}
+	]
+}

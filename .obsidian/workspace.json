@@ -11,12 +11,14 @@
             "id": "2ba7eeafcd4fd44e",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Unreal/Blueprints/Nodos"
+                "file": "Unreal/Blueprints/Nodos/Lerp.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Nodos"
+              "title": "Lerp"
             }
           }
         ]
@@ -180,20 +182,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ba7eeafcd4fd44e",
+  "active": "d98800fb1da7e216",
   "lastOpenFiles": [
+    "Unreal/Blueprints/Nodos/Untitled.canvas",
+    "Unreal/Blueprints/Nodos/Lerp.md",
+    "Unreal/Blueprints/Nodos/Sin título.md",
+    "Unreal/Blueprints/img/Pasted image 20241120174808.png",
+    "Sin título.md",
+    "Unreal/Sin título.md",
     "Unreal/Blueprints/Nodos/Nodos.md",
     "Unreal/Blueprints/Nodos/On Component Begin Overlap.md",
     "Unreal/Blueprints/Abrir pruerta.md",
-    "Unreal/Blueprints/Nodos/Lerp.md",
     "Unreal/Blueprints/Nodos/Greater Equal.md",
     "Unreal/Blueprints/Nodos/Set Time by Event.md",
     "Unreal/Blueprints/Nodos/Clear and Invalidate Timer by Handle.md",
     "Unreal/Blueprints/Nodos/Branch.md",
     "Unreal/Blueprints/On Component Begin Overlap.md",
     "Unreal/Blueprints/Nodos",
-    "Pasted image 20241120174808.png",
-    "Pasted image 20241120174755.png",
+    "Unreal/Blueprints/img/Pasted image 20241120174755.png",
     "Unreal/Blueprints/img/Pasted image 20241120174601.png",
     "Unreal/Conceptos basicos/Función pura.md",
     "Unreal/Conceptos basicos/Estructuras.md",
@@ -201,7 +207,6 @@
     "Unreal/Conceptos basicos/Conceptos basicos.md",
     "Unreal/Blueprints/Blueprints.md",
     "Unreal/Conceptos basicos",
-    "Unreal/Sin título.md",
     "Unreal/Blueprints/img/Pasted image 20241119175755.png",
     "Unreal/Blueprints/img/Pasted image 20241119180533.png",
     "Unreal/Blueprints/img/Pasted image 20241119174704.png",
