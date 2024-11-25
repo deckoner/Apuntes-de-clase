@@ -47,8 +47,10 @@
   "expandedSpaces": [
     "/",
     "//Unreal",
+    "//Unreal/Unreal/Conceptos basicos",
     "//Unreal/Unreal/Blueprints",
-    "//Unreal/Unreal/Conceptos basicos"
+    "//Unreal/Unreal/Blueprints/Unreal/Blueprints/Nodos",
+    "//Unreal/Unreal/Blueprints/Unreal/Blueprints/img"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

@@ -11,10 +11,14 @@
             "id": "377012707a4be0d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Unreal/Blueprints/Abrir pruerta.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Abrir pruerta"
             }
           }
         ]
@@ -79,8 +83,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,21 +183,23 @@
   },
   "active": "377012707a4be0d3",
   "lastOpenFiles": [
+    "Vault.md",
+    "Bienvenido.md",
+    "Unreal/Blueprints/img/img.md",
+    "Unreal/Blueprints/Nodos/Set Time by Event.md",
+    "Unreal/Blueprints/Abrir pruerta.md",
+    "Unreal/Blueprints/Nodos/Nodos.md",
+    "Unreal/Blueprints/Nodos/On Component Begin Overlap.md",
+    "Unreal/Blueprints/Nodos/Greater Equal.md",
     "Unreal/Conceptos basicos/Función pura.md",
     "Unreal/Conceptos basicos/Estructuras.md",
     "Unreal/Conceptos basicos/Comentar en Blueprints.md",
-    "Unreal/Blueprints/img/img.md",
-    "Unreal/Blueprints/Nodos/Nodos.md",
     "Unreal/Blueprints/Blueprints.md",
-    "Unreal/Blueprints/Nodos/On Component Begin Overlap.md",
     "Unreal/Blueprints/Nodos/Branch.md",
     "Unreal/Blueprints/Nodos/Clear and Invalidate Timer by Handle.md",
-    "Unreal/Blueprints/Nodos/Set Time by Event.md",
-    "Unreal/Blueprints/Nodos/Greater Equal.md",
     "Unreal/Blueprints/Nodos/Lerp.md",
     "Unreal/Blueprints/Nodos/Set Relative location.md",
     "Unreal/Blueprints/Nodos/Add.md",
-    "Unreal/Blueprints/Abrir pruerta.md",
     "Tags",
     "Unreal/Blueprints/Nodos/Untitled.canvas",
     "Unreal/Blueprints/img/Pasted image 20241120174808.png",
@@ -211,11 +216,9 @@
     "Unreal/Blueprints/img/Pasted image 20241119174704.png",
     "Pasted image 20241119174800.png",
     "Unreal/Blueprints/img/Pasted image 20241119174811.png",
-    "Vault.md",
     "Unreal/Blueprints/img/Pasted image 20241119173725.png",
     "Unreal/Blueprints/img",
     "Unreal/Blueprints",
-    "Unreal",
-    "Bienvenido.md"
+    "Unreal"
   ]
 }
