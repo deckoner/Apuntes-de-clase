@@ -1,4 +1,4 @@
 ---
 Tipo:
-  - Recursos
+  - Ejemplos
 ---

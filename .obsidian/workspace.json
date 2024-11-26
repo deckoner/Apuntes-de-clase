@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Blueprints/Abrir pruerta.md",
+                "file": "Unreal/Blueprints/Ejemplos/AIC Evento de movimiento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abrir pruerta"
+              "title": "AIC Evento de movimiento"
             }
           }
         ]
@@ -83,7 +83,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,18 +184,28 @@
   },
   "active": "377012707a4be0d3",
   "lastOpenFiles": [
+    "Unreal/Blueprints/Nodos/Get Controlled Pawn.md",
+    "Unreal/Blueprints/Ejemplos/AIC Evento de movimiento.md",
+    "Unreal/Blueprints/Nodos/AI MoveTo.md",
+    "Unreal/Conceptos basicos/Comentar en Blueprints.md",
+    "Pasted image 20241126174611.png",
+    "Unreal/Blueprints/Ejemplos/Ejemplos.md",
+    "Unreal/Blueprints/img/img.md",
+    "Unreal/Blueprints/Nodos/Nodos.md",
+    "Unreal/Blueprints/Blueprints.md",
+    "Unreal/Blueprints/Ejemplos/Abrir pruerta.md",
+    "Unreal/Blueprints/Ejemplos",
+    "Unreal/Blueprints/Sin título.md",
+    "Unreal/Blueprints/Ejemplos/Spawner.md",
+    "Unreal/Blueprints/Nodos/Subtract.md",
+    "Unreal/Blueprints/Nodos/On Component Begin Overlap.md",
+    "Unreal/Blueprints/img/Pasted image 20241126172447.png",
     "Vault.md",
     "Bienvenido.md",
-    "Unreal/Blueprints/img/img.md",
     "Unreal/Blueprints/Nodos/Set Time by Event.md",
-    "Unreal/Blueprints/Abrir pruerta.md",
-    "Unreal/Blueprints/Nodos/Nodos.md",
-    "Unreal/Blueprints/Nodos/On Component Begin Overlap.md",
     "Unreal/Blueprints/Nodos/Greater Equal.md",
     "Unreal/Conceptos basicos/Función pura.md",
     "Unreal/Conceptos basicos/Estructuras.md",
-    "Unreal/Conceptos basicos/Comentar en Blueprints.md",
-    "Unreal/Blueprints/Blueprints.md",
     "Unreal/Blueprints/Nodos/Branch.md",
     "Unreal/Blueprints/Nodos/Clear and Invalidate Timer by Handle.md",
     "Unreal/Blueprints/Nodos/Lerp.md",
@@ -205,18 +216,15 @@
     "Unreal/Blueprints/img/Pasted image 20241120174808.png",
     "Sin título.md",
     "Unreal/Sin título.md",
-    "Unreal/Blueprints/On Component Begin Overlap.md",
     "Unreal/Blueprints/Nodos",
     "Unreal/Blueprints/img/Pasted image 20241120174755.png",
     "Unreal/Blueprints/img/Pasted image 20241120174601.png",
-    "Unreal/Conceptos basicos/Conceptos basicos.md",
     "Unreal/Conceptos basicos",
     "Unreal/Blueprints/img/Pasted image 20241119175755.png",
     "Unreal/Blueprints/img/Pasted image 20241119180533.png",
     "Unreal/Blueprints/img/Pasted image 20241119174704.png",
     "Pasted image 20241119174800.png",
     "Unreal/Blueprints/img/Pasted image 20241119174811.png",
-    "Unreal/Blueprints/img/Pasted image 20241119173725.png",
     "Unreal/Blueprints/img",
     "Unreal/Blueprints",
     "Unreal"

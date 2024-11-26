@@ -1,6 +1,5 @@
 ---
 Tipo:
-  - Apuntes
   - Ejemplos
 ---
 ## Subir puerta
@@ -31,4 +30,6 @@ Primero nuestro [[Unreal/Blueprints/Nodos/Branch.md|Branch]] cuando da false est
 Luego seguirá con el nodo [[Unreal/Blueprints/Nodos/Set Relative location.md|Set Relative location]] el cual tiene un nodo [[Unreal/Blueprints/Nodos/Lerp.md|Lerp]] que en A tendrá la altura base de nuestro objeto y en B hasta la altura que tiene que llegar, como Alpha usaremos el valor del porcentaje todo esto retornara un valor el cual representa la altura de ese porcentaje,.
 
 ## Bajar puerta
+![[Pasted image 20241126172447.png]]
 
+Exactamente lo mismo pero en vez de añadir restaremos con el nodo [[Unreal/Blueprints/Nodos/Subtract.md|Subtract]]para quitar el numero que toque en la altura hasta cerrarla
