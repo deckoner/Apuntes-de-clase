@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Blueprints/Ejemplos/AIC Evento de movimiento.md",
+                "file": "Unreal/Blueprints/Ejemplos/Abrir pruerta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIC Evento de movimiento"
+              "title": "Abrir pruerta"
             }
           }
         ]
@@ -184,21 +184,22 @@
   },
   "active": "377012707a4be0d3",
   "lastOpenFiles": [
-    "Unreal/Blueprints/Nodos/Get Controlled Pawn.md",
     "Unreal/Blueprints/Ejemplos/AIC Evento de movimiento.md",
+    "Unreal/Blueprints/Nodos/On Component Begin Overlap.md",
+    "Unreal/Blueprints/Ejemplos/Abrir pruerta.md",
+    "Unreal/Blueprints/Ejemplos/Ejemplos.md",
+    "Unreal/Blueprints/Blueprints.md",
+    "Unreal/Blueprints/Untitled.canvas",
+    "Unreal/Blueprints/img/Pasted image 20241126174611.png",
+    "Unreal/Blueprints/Nodos/Get Controlled Pawn.md",
     "Unreal/Blueprints/Nodos/AI MoveTo.md",
     "Unreal/Conceptos basicos/Comentar en Blueprints.md",
-    "Pasted image 20241126174611.png",
-    "Unreal/Blueprints/Ejemplos/Ejemplos.md",
     "Unreal/Blueprints/img/img.md",
     "Unreal/Blueprints/Nodos/Nodos.md",
-    "Unreal/Blueprints/Blueprints.md",
-    "Unreal/Blueprints/Ejemplos/Abrir pruerta.md",
     "Unreal/Blueprints/Ejemplos",
     "Unreal/Blueprints/Sin título.md",
     "Unreal/Blueprints/Ejemplos/Spawner.md",
     "Unreal/Blueprints/Nodos/Subtract.md",
-    "Unreal/Blueprints/Nodos/On Component Begin Overlap.md",
     "Unreal/Blueprints/img/Pasted image 20241126172447.png",
     "Vault.md",
     "Bienvenido.md",
@@ -215,7 +216,6 @@
     "Unreal/Blueprints/Nodos/Untitled.canvas",
     "Unreal/Blueprints/img/Pasted image 20241120174808.png",
     "Sin título.md",
-    "Unreal/Sin título.md",
     "Unreal/Blueprints/Nodos",
     "Unreal/Blueprints/img/Pasted image 20241120174755.png",
     "Unreal/Blueprints/img/Pasted image 20241120174601.png",

@@ -49,8 +49,7 @@
     "//Unreal",
     "//Unreal/Unreal/Conceptos basicos",
     "//Unreal/Unreal/Blueprints",
-    "//Unreal/Unreal/Blueprints/Unreal/Blueprints/Ejemplos",
-    "//Unreal/Unreal/Blueprints/Unreal/Blueprints/Nodos"
+    "//Unreal/Unreal/Blueprints/Unreal/Blueprints/Ejemplos"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"d00a2b8943e1c45d","x":176,"y":-45,"width":250,"height":60,"color":"1","type":"text","text":"Preparar el equipo"},
+		{"id":"2fc658842c6acd0c","x":176,"y":80,"width":250,"height":60,"color":"1","type":"text","text":"Reastrear"},
+		{"id":"fa3a850668cd86af","x":-74,"y":-200,"width":250,"height":58,"color":"1","type":"text","text":"Preparación"},
+		{"id":"c79893279c134233","x":-74,"y":202,"width":250,"height":60,"color":"1","type":"text","text":"Cazar"},
+		{"id":"c91a65737a0a3af6","x":-360,"y":-45,"width":250,"height":60,"color":"1","type":"text","text":"Elegir nueva victima"},
+		{"id":"7a996c20a50b95a7","x":-360,"y":80,"width":250,"height":60,"color":"1","type":"text","text":"Crear Equipo\n"}
+	],
+	"edges":[
+		{"id":"36ee4723af19dbc5","fromNode":"d00a2b8943e1c45d","fromSide":"bottom","toNode":"2fc658842c6acd0c","toSide":"top"},
+		{"id":"bfc5fd510c327ae2","fromNode":"fa3a850668cd86af","fromSide":"right","toNode":"d00a2b8943e1c45d","toSide":"top"},
+		{"id":"063a6c5135fed200","fromNode":"2fc658842c6acd0c","fromSide":"bottom","toNode":"c79893279c134233","toSide":"right"},
+		{"id":"a3dfdbbd1a384fa9","fromNode":"c79893279c134233","fromSide":"left","toNode":"7a996c20a50b95a7","toSide":"bottom"},
+		{"id":"89d335537d35600d","fromNode":"7a996c20a50b95a7","fromSide":"top","toNode":"c91a65737a0a3af6","toSide":"bottom"},
+		{"id":"a76467d2524b517b","fromNode":"c91a65737a0a3af6","fromSide":"top","toNode":"fa3a850668cd86af","toSide":"left"}
+	]
+}
